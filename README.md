@@ -242,6 +242,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [SecurityPal](https://www.securitypalhq.com/) | Baluwatar, Kathmandu | SecurityPal, a fast-growing early-stage startup based out of San Francisco, is on a mission to power growth through security
 - [Seknox Cybersecurity](https://seknox.com) | Jhamsikhel, Lalitpur | We help achieving secure access to internal servers and services using our product TRASA
 - [Semantic Creation](https://www.semanticcreation.com/) | Pulchowk, Lalitpur | Provide professional services covering all areas of modern technology
+- [Simriktrix](https://simriktrix.com/) | Srijana Nagar, Bhaktapur | We offer a complete range of digital marketing services like  professional SEO, web development, and creative graphic design
 - [Shiran Techlonogies Pvt. Ltd.](https://www.shirantech.com/) | Hattisar, Kathmandu | Mobile App Development, Mobile Application Marketing, Mobile Marketing Consultation & Web Application Development
 - [Smartmobe Solutions](https://smartmobe.com/) | Tripureshwor, Kathmandu | Mobile Apps, Graphic Design, and Web Development Services
 - [Sofsee Tech](https://sofsee.com) | Mahendranagar, Kanchanpur | A full-service IT Company that provides solutions to grow businesses with development tools, technology and digital marketing strategies
